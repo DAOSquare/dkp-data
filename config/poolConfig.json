@@ -1,0 +1,40 @@
+[
+	{
+		"id": 1,
+    	"name":"Stake RICE",
+		"desc":"Stake RICE to earn DKP2",
+		"title":"DKP2",
+		"icon":"https://store.daosquare.io/config/assets/Pool-DKP1.jpg",
+		"token":{
+			"name":"RICE",
+			"icon":"https://store.daosquare.io/config/assets/Token-DAOSquareRICE.png"
+		},
+      	"pointName":"DKP2"
+	},
+	{
+		"id": 2,
+      	"memo": "leave token name empty to set as task pool",
+    	"name":"Finish tasks",
+		"desc":"Challenge tasks and win DKP3",
+		"title":"DKP3",
+		"icon":"https://store.daosquare.io/config/assets/Pool-DKP2.png",
+      	"token":{
+			"name":"",
+			"icon":"https://store.daosquare.io/config/assets/Pool-DKP2.png"
+		},
+      	"pointName":"DKP3"
+	},
+  	{
+		"id": 3,
+      	"memo": "leave token name empty to set as task pool",
+    	"name":"Contribute for DAO",
+		"desc":"Contribute and earn DKP4!",
+		"title":"DKP4",
+		"icon":"https://store.daosquare.io/config/assets/Pool-DKP3.png",
+      	"token":{
+			"name":"",
+			"icon":"https://store.daosquare.io/config/assets/Pool-DKP3.png"
+		},
+      	"pointName":"DKP4"
+	}
+]
