@@ -1,0 +1,11 @@
+{
+  "name": "The 2023 year of the Rabbit red envelope 1",
+  "description": "Gift rice 20 and  Please redeem RICE in Bistro (visit bistro.daosquare.io)",
+  "external_url": "",
+  "image": "https://daodkp.oss-ap-southeast-1.aliyuncs.com/dkp/Lunar_New_Year_49.png",
+  "bistro": {
+    "poolId": 0,
+    "token": "RICE",
+    "value": 20
+  }
+}

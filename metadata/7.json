@@ -1,0 +1,11 @@
+{
+  "name": "DKP RICE Ticket: 100 RICE",
+  "description": "Take this ticket and redeem RICE in Bistro (visit bistro.daosquare.io)",
+  "external_url": "",
+  "image": "https://store.daosquare.io/dkp/DKP-GENESIS-RICE-tickets-100.png",
+  "bistro": {
+    "poolId": 0,
+    "token": "RICE",
+    "value": 100
+  }
+}

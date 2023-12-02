@@ -1,0 +1,11 @@
+{
+  "name": "DKP wxDai Ticket: 200 wxDai",
+  "description": "Take this gift and redeem wxDai in Bistro (visit bistro.daosquare.io)",
+  "external_url": "",
+  "image": "https://store.daosquare.io/dkp/wxdai-tickets-200.png",
+  "bistro": {
+    "poolId": 1,
+    "token": "WXDAI",
+    "value": 200
+  }
+}
